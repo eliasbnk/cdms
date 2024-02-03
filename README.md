@@ -48,7 +48,7 @@ chmod +x setup_college.sh new_lecture.sh new_assignment.sh
 source new_lecture.sh
 ```
 
-2. From the menu, choose the class for which you want to create an assignment by entering the associated number.
+2. From the menu, choose the class for which you want to add a new lecture by entering the associated number.
 3. When asked, indicate if you wish to change to the directory of the new assignment folder.
 
 
@@ -66,7 +66,7 @@ source new_lecture.sh
 source new_assignment.sh
 ```
 
-2. From the menu, choose the class for which you want to create an assignment by entering the associated number.
+2. From the menu, choose the class for which you want to add a new assignment by entering the associated number.
 3. When asked, indicate if you wish to change to the directory of the new assignment folder.
 
  
