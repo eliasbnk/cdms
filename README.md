@@ -32,10 +32,10 @@ chmod +x setup_college.sh new_lecture.sh new_assignment.sh
 
 
 
-![SCR-20240202-pndg.png](../_resources/SCR-20240202-pndg.png)
+![SCR-20240202-pndg.png](https://github.com/eliasbnk/cdms/blob/main/SCR-20240202-pndg.png)
 
 
-![SCR-20240202-pnkn.png](../_resources/SCR-20240202-pnkn.png)
+![SCR-20240202-pnkn.png](https://github.com/eliasbnk/cdms/blob/main/SCR-20240202-pnkn.png)
 
 
 
@@ -53,7 +53,7 @@ source new_lecture.sh
 
 
 
-![SCR-20240202-pnqz.png](../_resources/SCR-20240202-pnqz.png)
+![SCR-20240202-pnqz.png](https://github.com/eliasbnk/cdms/blob/main/SCR-20240202-pnqz.png)
 
 
 
@@ -72,9 +72,9 @@ source new_assignment.sh
  
 
 
-![SCR-20240202-pnwm.png](../_resources/SCR-20240202-pnwm.png)
+![SCR-20240202-pnwm.png](https://github.com/eliasbnk/cdms/blob/main/SCR-20240202-pnwm.png)
 
 
 
-![SCR-20240202-ptqx.png](../_resources/SCR-20240202-ptqx.png)
+![SCR-20240202-ptqx.png](https://github.com/eliasbnk/cdms/blob/main/SCR-20240202-ptqx.png)
 
